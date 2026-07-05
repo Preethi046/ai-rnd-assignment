@@ -68,7 +68,7 @@ python plot_fit.py    # produces fit_validation.png
 ```
 ## Desmos steps (how the graph was built)
 
-1. Open the given calculator: https://www.desmos.com/calculator/rfj91yrxob
+1. Open the given calculator
 2. Add a new expression with the solved values substituted in (θ in radians):
 
 ```
