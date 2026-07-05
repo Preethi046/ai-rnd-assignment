@@ -23,7 +23,7 @@ given 1500 (x, y) samples for t ∈ (6, 60), with:
 
 Reconstruction error against the given data: mean L1 ≈ 3.5×10⁻⁶, max L1 ≈ 2.4×10⁻⁵ — effectively exact.
 
-**Desmos graph:** https://www.desmos.com/calculator/YOUR-SAVED-ID
+**Desmos graph:** https://www.desmos.com/calculator/wgwf6bhd1k
 
 ## Approach
 
